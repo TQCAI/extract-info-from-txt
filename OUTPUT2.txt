@@ -1,0 +1,315 @@
+TEMPERATURE          :   388.71K 
+PRESSURE             :    20.68BAR 
+CAPILLARY PRESSURE   :     0.00BAR
+INTERFICIAL TENSION  :      0.029343N/M
+PC(J-FUNCTION)       :   1966.586134PSI
+PC(SKJAEVELAND)      :111.649006PSI
+PC(LAPLACE EQUATION) : 58.686154BAR
+ 
+ **FLASH CALCULATION FOR EOS BY PENG ROBINSON EOS**
+ **COMPARE THE RESULT OF FLASH WITH MINIMIZING GIBBS  ENERGY RESULTS **
+ 
+ *****************************************************
+ *****************************************************
+ 
+ MOLE FRACTION OF LIQUID L,V:   0.223716082968337       0.223716082968337     
+ MOLE FRACTION OF VAPOR  L,V:   0.776283917031663       0.776283917031663     
+ 
+ ***********VISCOSITY CALCULATION[CP]****************
+ 
+ LIQUID VISCOSITY                  VAPOR VISCOSITY
+
+   1.2291        1.2291                      0.0172        0.0172
+ 
+ ***********COMPRESSIBILITY ****************
+ LIQUID COMPRESSIBILITY               VAPOR COMPRESSIBILITY
+
+   0.1178        0.1178                      0.9333        0.9333
+ 
+ ***********FORMATION VOLUME FACTOR ****************
+   1.0347
+ 
+ ***********DENSITY CALCULATION[LB/FT3]***************
+ LIQUID MOLAR WEIGHT L,V               VAPOR MOLAR WEIGHT L,V
+
+ 135.9361      135.9361                     43.1699       43.1699
+ LIQUID MOLAR VOLUME L,V           VAPOR MOLAR VOLUME L,V
+
+   2.9483        2.9483                     23.3647       23.3647
+ LIQUID DENSITY                    VAPOR DENSITY
+
+  46.1065       46.1065                      1.8477        1.8477
+ *****************************************************
+ 
+ NAME OF COMPOSITION   OVERAL COMPOSITION   LIQUID PHASE COMPOSITION, L,V   VAPOR PHASE COMPOSITION       L,V
+
+     CH4              0.1253               0.0084         0.0084          0.1590         0.1590
+     C2-4             0.1100               0.0430         0.0430          0.1293         0.1293
+     C5-7             0.1000               0.2207         0.2207          0.0652         0.0652
+     C8-9             0.0650               0.2254         0.2254          0.0188         0.0188
+     C10+             0.0997               0.4455         0.4455          0.0001         0.0001
+     CO2              0.5000               0.0571         0.0571          0.6276         0.6276
+ *****************************************************
+ *****************************************************
+ 
+      K-VALUE L,V                       FIL(PSI) L,V                            FIV(PSI) L,V
+
+   19.0225     19.0225               47.7523         47.7523               47.7523         47.7523
+    3.0099      3.0099               34.2701         34.2701               34.2701         34.2701
+    0.2954      0.2954               14.6636         14.6636               14.6636         14.6636
+    0.0833      0.0833                3.8715          3.8715                3.8715          3.8715
+    0.0001      0.0001                0.0070          0.0070                0.0070          0.0070
+   10.9981     10.9981              180.8318        180.8318              180.8318        180.8318
+ **************PROGRAM RUN OVER***********************
+TEMPERATURE          :   388.71K
+PRESSURE             :    34.47BAR
+CAPILLARY PRESSURE   :     0.00BAR
+INTERFICIAL TENSION  :      0.024645N/M
+PC(J-FUNCTION)       :   1447.636876PSI
+PC(SKJAEVELAND)      : 62.723073PSI
+PC(LAPLACE EQUATION) : 49.289736BAR
+ 
+ **FLASH CALCULATION FOR EOS BY PENG ROBINSON EOS**
+ **COMPARE THE RESULT OF FLASH WITH MINIMIZING GIBBS  ENERGY RESULTS **
+ 
+ *****************************************************
+ *****************************************************
+ 
+ MOLE FRACTION OF LIQUID L,V:   0.263023216836954       0.263023216836954     
+ MOLE FRACTION OF VAPOR  L,V:   0.736976783163046       0.736976783163046     
+ 
+ ***********VISCOSITY CALCULATION[CP]****************
+ 
+ LIQUID VISCOSITY                  VAPOR VISCOSITY
+
+   0.9749        0.9749                      0.0178        0.0178
+ 
+ ***********COMPRESSIBILITY ****************
+ LIQUID COMPRESSIBILITY               VAPOR COMPRESSIBILITY
+
+   0.1825        0.1825                      0.8992        0.8992
+ 
+ ***********FORMATION VOLUME FACTOR ****************
+   1.1308
+ 
+ ***********DENSITY CALCULATION[LB/FT3]***************
+ LIQUID MOLAR WEIGHT L,V               VAPOR MOLAR WEIGHT L,V
+
+ 124.9530      124.9530                     42.1419       42.1419
+ LIQUID MOLAR VOLUME L,V           VAPOR MOLAR VOLUME L,V
+
+   2.7408        2.7408                     13.5046       13.5046
+ LIQUID DENSITY                    VAPOR DENSITY
+
+  45.5907       45.5907                      3.1206        3.1206
+ *****************************************************
+ 
+ NAME OF COMPOSITION   OVERAL COMPOSITION   LIQUID PHASE COMPOSITION, L,V   VAPOR PHASE COMPOSITION       L,V
+
+     CH4              0.1253               0.0147         0.0147          0.1648         0.1648
+     C2-4             0.1100               0.0648         0.0648          0.1261         0.1261
+     C5-7             0.1000               0.2366         0.2366          0.0513         0.0513
+     C8-9             0.0650               0.2088         0.2088          0.0137         0.0137
+     C10+             0.0997               0.3789         0.3789          0.0001         0.0001
+     CO2              0.5000               0.0962         0.0962          0.6441         0.6441
+ *****************************************************
+ *****************************************************
+ 
+      K-VALUE L,V                       FIL(PSI) L,V                            FIV(PSI) L,V
+
+   11.1921     11.1921               82.3935         82.3935               82.3935         82.3935
+    1.9470      1.9470               51.6509         51.6509               51.6509         51.6509
+    0.2167      0.2167               16.1641         16.1641               16.1641         16.1641
+    0.0654      0.0654                3.7551          3.7551                3.7551          3.7551
+    0.0001      0.0001                0.0069          0.0069                0.0069          0.0069
+    6.6967      6.6967              300.3171        300.3171              300.3171        300.3171
+ **************PROGRAM RUN OVER***********************
+TEMPERATURE          :   388.71K
+PRESSURE             :    48.26BAR
+CAPILLARY PRESSURE   :     0.00BAR
+INTERFICIAL TENSION  :      0.021010N/M
+PC(J-FUNCTION)       :   1091.954184PSI
+PC(SKJAEVELAND)      : 44.281750PSI
+PC(LAPLACE EQUATION) : 42.020540BAR
+ 
+ **FLASH CALCULATION FOR EOS BY PENG ROBINSON EOS**
+ **COMPARE THE RESULT OF FLASH WITH MINIMIZING GIBBS  ENERGY RESULTS **
+ 
+ *****************************************************
+ *****************************************************
+ 
+ MOLE FRACTION OF LIQUID L,V:   0.294169745953389       0.294169745953389     
+ MOLE FRACTION OF VAPOR  L,V:   0.705830254046611       0.705830254046611     
+ 
+ ***********VISCOSITY CALCULATION[CP]****************
+ 
+ LIQUID VISCOSITY                  VAPOR VISCOSITY
+
+   0.8315        0.8315                      0.0185        0.0185
+ 
+ ***********COMPRESSIBILITY ****************
+ LIQUID COMPRESSIBILITY               VAPOR COMPRESSIBILITY
+
+   0.2418        0.2418                      0.8669        0.8669
+ 
+ ***********FORMATION VOLUME FACTOR ****************
+   1.1967
+ 
+ ***********DENSITY CALCULATION[LB/FT3]***************
+ LIQUID MOLAR WEIGHT L,V               VAPOR MOLAR WEIGHT L,V
+
+ 117.3459      117.3459                     41.6581       41.6581
+ LIQUID MOLAR VOLUME L,V           VAPOR MOLAR VOLUME L,V
+
+   2.5934        2.5934                      9.2996        9.2996
+ LIQUID DENSITY                    VAPOR DENSITY
+
+  45.2477       45.2477                      4.4796        4.4796
+ *****************************************************
+ 
+ NAME OF COMPOSITION   OVERAL COMPOSITION   LIQUID PHASE COMPOSITION, L,V   VAPOR PHASE COMPOSITION       L,V
+
+     CH4              0.1253               0.0213         0.0213          0.1686         0.1686
+     C2-4             0.1100               0.0807         0.0807          0.1222         0.1222
+     C5-7             0.1000               0.2332         0.2332          0.0445         0.0445
+     C8-9             0.0650               0.1925         0.1925          0.0119         0.0119
+     C10+             0.0997               0.3388         0.3388          0.0001         0.0001
+     CO2              0.5000               0.1335         0.1335          0.6527         0.6527
+ *****************************************************
+ *****************************************************
+ 
+      K-VALUE L,V                       FIL(PSI) L,V                            FIV(PSI) L,V
+
+    7.9214      7.9214              118.1101        118.1101              118.1101        118.1101
+    1.5143      1.5143               65.0549         65.0549               65.0549         65.0549
+    0.1907      0.1907               16.5608         16.5608               16.5608         16.5608
+    0.0616      0.0616                3.6573          3.6573                3.6573          3.6573
+    0.0002      0.0002                0.0072          0.0072                0.0072          0.0072
+    4.8893      4.8893              413.7713        413.7713              413.7713        413.7713
+ **************PROGRAM RUN OVER***********************
+TEMPERATURE          :   388.71K
+PRESSURE             :    62.05BAR
+CAPILLARY PRESSURE   :     0.00BAR
+INTERFICIAL TENSION  :      0.017882N/M
+PC(J-FUNCTION)       :    828.311206PSI
+PC(SKJAEVELAND)      : 34.860223PSI
+PC(LAPLACE EQUATION) : 35.764612BAR
+ 
+ **FLASH CALCULATION FOR EOS BY PENG ROBINSON EOS**
+ **COMPARE THE RESULT OF FLASH WITH MINIMIZING GIBBS  ENERGY RESULTS **
+ 
+ *****************************************************
+ *****************************************************
+ 
+ MOLE FRACTION OF LIQUID L,V:   0.322146257228841       0.322146257228841     
+ MOLE FRACTION OF VAPOR  L,V:   0.677853742771159       0.677853742771159     
+ 
+ ***********VISCOSITY CALCULATION[CP]****************
+ 
+ LIQUID VISCOSITY                  VAPOR VISCOSITY
+
+   0.7296        0.7296                      0.0192        0.0192
+ 
+ ***********COMPRESSIBILITY ****************
+ LIQUID COMPRESSIBILITY               VAPOR COMPRESSIBILITY
+
+   0.2965        0.2965                      0.8361        0.8361
+ 
+ ***********FORMATION VOLUME FACTOR ****************
+   1.2502
+ 
+ ***********DENSITY CALCULATION[LB/FT3]***************
+ LIQUID MOLAR WEIGHT L,V               VAPOR MOLAR WEIGHT L,V
+
+ 111.2857      111.2857                     41.4144       41.4144
+ LIQUID MOLAR VOLUME L,V           VAPOR MOLAR VOLUME L,V
+
+   2.4739        2.4739                      6.9756        6.9756
+ LIQUID DENSITY                    VAPOR DENSITY
+
+  44.9835       44.9835                      5.9371        5.9371
+ *****************************************************
+ 
+ NAME OF COMPOSITION   OVERAL COMPOSITION   LIQUID PHASE COMPOSITION, L,V   VAPOR PHASE COMPOSITION       L,V
+
+     CH4              0.1253               0.0280         0.0280          0.1715         0.1715
+     C2-4             0.1100               0.0920         0.0920          0.1185         0.1185
+     C5-7             0.1000               0.2239         0.2239          0.0411         0.0411
+     C8-9             0.0650               0.1780         0.1780          0.0113         0.0113
+     C10+             0.0997               0.3093         0.3093          0.0001         0.0001
+     CO2              0.5000               0.1687         0.1687          0.6575         0.6575
+ *****************************************************
+ *****************************************************
+ 
+      K-VALUE L,V                       FIL(PSI) L,V                            FIV(PSI) L,V
+
+    6.1268      6.1268              154.7600        154.7600              154.7600        154.7600
+    1.2877      1.2877               75.4072         75.4072               75.4072         75.4072
+    0.1835      0.1835               16.6062         16.6062               16.6062         16.6062
+    0.0633      0.0633                3.5894          3.5894                3.5894          3.5894
+    0.0003      0.0003                0.0075          0.0075                0.0075          0.0075
+    3.8984      3.8984              520.5897        520.5897              520.5897        520.5897
+ **************PROGRAM RUN OVER***********************
+TEMPERATURE          :   388.71K
+PRESSURE             :    75.84BAR
+CAPILLARY PRESSURE   :     0.00BAR
+INTERFICIAL TENSION  :      0.015097N/M
+PC(J-FUNCTION)       :    626.911854PSI
+PC(SKJAEVELAND)      : 29.214992PSI
+PC(LAPLACE EQUATION) : 30.194413BAR
+ 
+ **FLASH CALCULATION FOR EOS BY PENG ROBINSON EOS**
+ **COMPARE THE RESULT OF FLASH WITH MINIMIZING GIBBS  ENERGY RESULTS **
+ 
+ *****************************************************
+ *****************************************************
+ 
+ MOLE FRACTION OF LIQUID L,V:   0.348629422865933       0.348629422865933     
+ MOLE FRACTION OF VAPOR  L,V:   0.651370577134067       0.651370577134067     
+ 
+ ***********VISCOSITY CALCULATION[CP]****************
+ 
+ LIQUID VISCOSITY                  VAPOR VISCOSITY
+
+   0.6502        0.6502                      0.0200        0.0200
+ 
+ ***********COMPRESSIBILITY ****************
+ LIQUID COMPRESSIBILITY               VAPOR COMPRESSIBILITY
+
+   0.3475        0.3475                      0.8067        0.8067
+ 
+ ***********FORMATION VOLUME FACTOR ****************
+   1.2971
+ 
+ ***********DENSITY CALCULATION[LB/FT3]***************
+ LIQUID MOLAR WEIGHT L,V               VAPOR MOLAR WEIGHT L,V
+
+ 106.1761      106.1761                     41.3083       41.3083
+ LIQUID MOLAR VOLUME L,V           VAPOR MOLAR VOLUME L,V
+
+   2.3718        2.3718                      5.5065        5.5065
+ LIQUID DENSITY                    VAPOR DENSITY
+
+  44.7652       44.7652                      7.5017        7.5017
+ *****************************************************
+ 
+ NAME OF COMPOSITION   OVERAL COMPOSITION   LIQUID PHASE COMPOSITION, L,V   VAPOR PHASE COMPOSITION       L,V
+
+     CH4              0.1253               0.0348         0.0348          0.1737         0.1737
+     C2-4             0.1100               0.0999         0.0999          0.1154         0.1154
+     C5-7             0.1000               0.2128         0.2128          0.0396         0.0396
+     C8-9             0.0650               0.1652         0.1652          0.0113         0.0113
+     C10+             0.0997               0.2858         0.2858          0.0001         0.0001
+     CO2              0.5000               0.2015         0.2015          0.6598         0.6598
+ *****************************************************
+ *****************************************************
+ 
+      K-VALUE L,V                       FIL(PSI) L,V                            FIV(PSI) L,V
+
+    4.9920      4.9920              192.2742        192.2742              192.2742        192.2742
+    1.1545      1.1545               83.4707         83.4707               83.4707         83.4707
+    0.1862      0.1862               16.5288         16.5288               16.5288         16.5288
+    0.0687      0.0687                3.5454          3.5454                3.5454          3.5454
+    0.0004      0.0004                0.0080          0.0080                0.0080          0.0080
+    3.2751      3.2751              620.7038        620.7038              620.7038        620.7038
+ **************PROGRAM RUN OVER***********************
